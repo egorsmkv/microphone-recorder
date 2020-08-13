@@ -2,6 +2,11 @@
 
 ## Install
 
+```
+git clone git@github.com:egorsmkv/microphone-recorder.git
+cd microphone-recorder
+```
+
 ### MacOS
 
 ```
